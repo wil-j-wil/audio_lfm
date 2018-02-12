@@ -1,10 +1,10 @@
 ## LATENT FORCE MODELLING OF AUDIO SUBBAND AMPLITUDE ENVELOPES ##
 
-### Matlab source code to accompany the research paper ‘A Generative Model for Natural Sounds Based on Latent Force Modelling’. [Research explainer web page and paper](http://c4dm.eecs.qmul.ac.uk/audioengineering/wil_j_wil/). ###
+### Matlab source code to accompany the research paper ‘A Generative Model for Natural Sounds Based on Latent Force Modelling’. [Research explainer web page](http://c4dm.eecs.qmul.ac.uk/audioengineering/wil_j_wil/) and [paper](https://arxiv.org/abs/1802.00680). ###
 
 Main working script with LFM applied to amplitude envelopes is *audio_lfm_main.m*
 
-### Matlab data structures containing all the data from previously run instances can be found here. Save as a folder called ‘/audio_lfm_data’ in the repo. ###
+### Matlab data structures containing all the data from previously run instances can be found [here](http://c4dm.eecs.qmul.ac.uk/audioengineering/wil_j_wil/audio_lfm_data.zip). Save as a folder called ‘/audio_lfm_data’ in the repo. ###
 
 See the ‘/experiments’ folder for previously run instances (many optimisation settings must be set manually and vary significantly by sound, so use these as a reference).
 
